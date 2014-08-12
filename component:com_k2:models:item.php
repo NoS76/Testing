@@ -10,7 +10,7 @@
 // no direct access
 defined('_JEXEC') or die ;
 
-jimport('joomla.application.component.model');
+
 
 JTable::addIncludePath(JPATH_COMPONENT_ADMINISTRATOR.DS.'tables');
 
