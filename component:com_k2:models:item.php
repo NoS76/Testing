@@ -12,6 +12,9 @@ defined('_JEXEC') or die ;
 
 jimport('joomla.application.component.model');
 
+/** test 
+*/
+
 JTable::addIncludePath(JPATH_COMPONENT_ADMINISTRATOR.DS.'tables');
 
 class K2ModelItem extends K2Model
