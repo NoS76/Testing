@@ -12,7 +12,7 @@ defined('_JEXEC') or die ;
 
 jimport('joomla.application.component.model');
 
-/** test 
+/** test due
 */
 
 JTable::addIncludePath(JPATH_COMPONENT_ADMINISTRATOR.DS.'tables');
